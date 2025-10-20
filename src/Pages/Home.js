@@ -26,7 +26,7 @@ const Home = () => {
                         <ul className="about-social">
                           <li className="wow fadeIn" data-wow-delay=".4s">
                             <a
-                              href="https://www.linkedin.com/in/sanajitjana01?ref=https://sanajitjana.github.io"
+                              href="www.linkedin.com/in/alex-lancaster-7437671b4"
                               target="newtab"
                             >
                               <i
@@ -37,43 +37,13 @@ const Home = () => {
                           </li>
                           <li className="wow fadeIn" data-wow-delay=".2s">
                             <a
-                              href="https://github.com/sanajitjana?ref=https://sanajitjana.github.io"
+                              href="https://github.com/lancaster2001"
                               target="newtab"
                             >
                               <i
                                 className="fa fa-github"
                                 aria-hidden="true"
                               ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".6s">
-                            <a
-                              href="https://www.instagram.com/sanajitjana01?ref=https://sanajitjana.github.io"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-instagram"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay=".8s">
-                            <a
-                              href="https://twitter.com/sanajitjana01?ref=https://sanajitjana.github.io"
-                              target="newtab"
-                            >
-                              <i
-                                className="fa fa-twitter"
-                                aria-hidden="true"
-                              ></i>
-                            </a>
-                          </li>
-                          <li className="wow fadeIn" data-wow-delay="1s">
-                            <a
-                              href="https://dev.to/sanajitjana?ref=https://sanajitjana.github.io"
-                              target="newtab"
-                            >
-                              <i className="fa fa-book" aria-hidden="true"></i>
                             </a>
                           </li>
                         </ul>
@@ -100,16 +70,15 @@ const Home = () => {
                       <h3>About Me</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>
-                        At present time I'm working on a multi-role, as a Web
-                        Developer I design and create various websites. And as
-                        UI/UX Designer I create many designs for Web
-                        Applications and Mobile applications. I create the
-                        beauty of the site. I'm responsible for the site's
-                        technical aspects, such as its performance and capacity,
-                        which are measures of a website's speed and how much
-                        traffic the site can handle. In addition, I also create
-                        content for the site.
+                       <p>
+                        I am a motivated Software Developer and Technical Consultant with a strong foundation in
+                        software implementation, technical problem-solving, and software development. I have hands on
+                        experience in CI/CD pipelines, cloud infrastructure, and data integration projects, coupled
+                        with excellent communication and documentation skills.
+
+                        Driven by continuous learning and collaboration, I enjoy bridging the gap between technical
+                        teams and clients. My goal is to grow as a software developer,
+                        leveraging both my technical expertise and my ability to build strong professional relationships.
                       </p>
                     </div>
                   </div>
@@ -121,10 +90,10 @@ const Home = () => {
                         className="fa fa-pencil-square-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Working Hard</h3>
+                      <h3>Building Reliable Solutions</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Always believe in hard-work in my profession</p>
+                      <p>I enjoy designing and implementing robust, maintainable systems that solve real business problems and scale effectively</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -133,10 +102,10 @@ const Home = () => {
                         className="fa fa-file-image-o love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>UI/UX Design</h3>
+                      <h3>Continuous Learning</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Love to do UI/UX design for new product</p>
+                      <p>I’m always expanding my skills across new technologies, from cloud infrastructure and DevOps tools to exploring how AI and automation can enhance software development</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
@@ -145,19 +114,19 @@ const Home = () => {
                         className="fa fa-globe love-icon"
                         aria-hidden="true"
                       ></i>
-                      <h3>Web Design</h3>
+                      <h3>Collaboration & Communication</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Passionate about Web Design from start</p>
+                      <p>I value clear communication and teamwork, ensuring technical solutions align with client needs and business goals</p>
                     </div>
                   </div>
                   <div className="col-md-3 col-sm-6">
                     <div className="love-details" data-wow-delay=".4s">
                       <i className="fa fa-cog love-icon" aria-hidden="true"></i>
-                      <h3>Web Development</h3>
+                      <h3>Problem Solving & Innovation</h3>
                       <div className="underline1"></div>
                       <div className="underline2"></div>
-                      <p>Created all types of modern web development.</p>
+                      <p>I enjoy breaking down complex challenges, automating workflows, and finding efficient, creative solutions</p>
                     </div>
                   </div>
                 </div>
