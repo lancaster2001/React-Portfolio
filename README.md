@@ -1,5 +1,37 @@
 This project was forked from Sanajit Jana:
 https://github.com/sanajitjana
+As such, i have changed the clone link however will be leaving the rest of this README as is.
+
+## Skills Demonstrated with This Project
+
+With this project, I intend to demonstrate the following skills:
+
+### 🔧 Version Control with Git
+- Using Git for source code management and collaboration.  
+- Hosting the project on GitHub, showcasing proficiency in version control practices.
+
+### 🖥️ Server Management
+- Setting up and configuring a web server (e.g., Nginx, Apache, or Node.js server).  
+- Handling file structure, permissions, and server-side configurations.
+
+### 🌐 Domain & DNS Management
+- Registering and configuring a custom domain.  
+- Managing DNS records to point to your server’s IP.
+
+### ⚙️ Deployment Automation
+- Optionally using CI/CD pipelines or deployment scripts to streamline updates.
+
+### 🔒 SSL & Security
+- Implementing HTTPS with SSL certificates (e.g., via Let’s Encrypt).  
+- Configuring firewall or security settings to protect the server.
+
+### 📈 Performance & Monitoring
+- Optimizing the website for load times and responsiveness.  
+- Monitoring uptime and server health.
+
+
+
+## [Original README]
 ## Table of Contents
 
 - [Introduction](#introduction)
