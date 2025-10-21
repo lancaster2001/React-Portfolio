@@ -1,7 +1,7 @@
 This project was forked from Sanajit Jana:
 https://github.com/sanajitjana
 As such, i have changed the clone link however will be leaving the rest of this README as is.
-
+## Please read this initial section for context
 ## Skills Demonstrated with This Project
 
 With this project, I intend to demonstrate the following skills:
